@@ -5,7 +5,7 @@
       "label": "Run JavaScript with Input/Output",
       "type": "shell",
       // --- THIS IS THE LINE TO CHANGE ---
-      "command": "zsh -ic \"node ./03_Setup/script.js < ./03_Setup/input.txt > ./03_Setup/output.txt\"",
+      "command": "zsh -ic \"node ./05_Maths/Count_Digits/script.js < ./05_Maths/Count_Digits/input.txt > ./05_Maths/Count_Digits/output.txt\"",
       // ------------------------------------
       "group": {
         "kind": "build",
