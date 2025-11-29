@@ -5,7 +5,7 @@
       "label": "Run JavaScript with Input/Output",
       "type": "shell",
       // --- THIS IS THE LINE TO CHANGE ---
-      "command": "zsh -ic \"node ./05_Maths/Check_Prime/script.js < ./05_Maths/Check_Prime/input.txt > ./05_Maths/Check_Prime/output.txt\"",
+      "command": "zsh -ic \"node ./06_Recurssion/Reverse_Array/script.js < ./06_Recurssion/Reverse_Array/input.txt > ./06_Recurssion/Reverse_Array/output.txt\"",
       // ------------------------------------
       "group": {
         "kind": "build",
